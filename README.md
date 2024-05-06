@@ -1,2 +1,3 @@
-# My-First-Project
-这是我在github上的第一个项目
+# 关于我在GitHub上的第一个项目
+
+其实它只是用来练习使用
